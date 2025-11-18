@@ -1,4 +1,6 @@
 ## EXP NO:6 C PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
+### Name: Divya Dharshini S
+### Reg.No: 212224240039
 ### Aim:
 To write a C program print the lowercase English word corresponding to the number
 ### Algorithm:
