@@ -1,4 +1,4 @@
-### Nmae: Divya Dharshini S
+### Name: Divya Dharshini S
 ### Reg.No: 212224240039
 ## EXP NO 26: C PROGRAM TO DISPLAY STACK ELEMENTS USING LINKED LIST.
 ### Aim:
