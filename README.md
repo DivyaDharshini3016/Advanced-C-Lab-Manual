@@ -1,4 +1,6 @@
 # Advanced-C-Lab-Manual
+### Name : Divya Dharshini S
+### Reg.No : 212224240039
 ## EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
 ### AIM:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
